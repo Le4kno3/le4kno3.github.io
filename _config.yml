@@ -78,6 +78,44 @@ content:
         Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
         Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
+      - layout: top-middle
+        title: Parking24
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Turn wishes into reality! Join Wisho: where dreams come true.
+        description:
+          | # At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
+        Wisho: A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
+        Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
+        Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+
+      - layout: top-middle
+        title: Wisho
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Turn wishes into reality! Join Wisho: where dreams come true.
+        description:
+          | # At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
+        Wisho: A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
+        Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
+        Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
