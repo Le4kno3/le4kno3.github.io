@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-w.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Harshika Tirpude, an accomplished Project Coordinator with a solid background in computer technology. With a Bachelor's degree in Engineering and hands-on experience at a dynamic startup, I excel in streamlining project workflows and ensuring timely delivery of high-quality products.
 
@@ -85,20 +85,11 @@ content:
         title: Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
         caption: 2018 - 2022
         sub_title: Bachelor of Engineering (Computer Technology)
-        quote: >
-          Summary: Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a commendable GPA of 83.5%. Developed a Campus Recruitment System, facilitating interactive job vacancy management for students and placement officers. Designed an Android-based Waste Food Management System, aiming to collect surplus food from hotels, restaurants, and individuals to distribute to those in need. Authored a review on existing food management systems, proposing solutions to tackle food waste in India. Engaged in various extracurricular activities, including Event Management, co-organizing HORIZON-19, and active membership in the Rotaract Club of Priyadarshini College of Engineering.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        quote: |
+          - Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a commendable GPA of 83.5%.
+          - Developed a Campus Recruitment System, facilitating interactive job vacancy management for students and placement officers.
+          - Designed an Android-based Waste Food Management System, aiming to collect surplus food from hotels, restaurants, and individuals to distribute to those in need.
+          - Authored a review on existing food management systems, proposing solutions to tackle food waste in India. Engaged in various extracurricular activities, including Event Management, co-organizing HORIZON-19, and active membership in the Rotaract Club of Priyadarshini College of Engineering.
 
 # Footer
 footer_show_references: true
