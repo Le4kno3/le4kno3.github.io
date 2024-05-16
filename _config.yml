@@ -30,10 +30,10 @@ linkedin_username: harshika tirpude
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
+# additional_links:
+#   - title: itsgoingto.be
+#     icon: fas fa-globe
+#     url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,45 +61,40 @@ content:
     content:
       - layout: top-middle
         title: Wisho
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Turn wishes into reality! Join Wisho: where dreams come true.
         description:
           | # At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
-        Wisho: A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
-        Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
-        Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+          A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
 
       - layout: top-middle
         title: Parking24
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Turn wishes into reality! Join Wisho: where dreams come true.
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description:
           | # At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
-        Wisho: A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
-        Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
+          An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
         Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
       - layout: top-middle
-        title: Wisho
-        link: github.com/sproogen
+        title: Hyve
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
@@ -108,13 +103,9 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Turn wishes into reality! Join Wisho: where dreams come true.
         description:
           | # At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
-        Wisho: A soon-to-be-launched social media mobile app where I coordinated the development and enforced rigorous quality assurance standards.
-        Parking24: An upcoming parking mobile app for the UAE, where I played a critical role in project coordination and testing to ensure the app meets all functional and non-functional requirements.
-        Hyve: Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
+          Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -123,7 +114,7 @@ content:
         title: Rashtrasant Tukdoji Maharaj Nagpur University, Nagpur
         caption: 2018 - 2022
         sub_title: Bachelor of Engineering (Computer Technology)
-        quote: |
+        description: |
           - Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a commendable GPA of 83.5%.
           - Developed a Campus Recruitment System, facilitating interactive job vacancy management for students and placement officers.
           - Designed an Android-based Waste Food Management System, aiming to collect surplus food from hotels, restaurants, and individuals to distribute to those in need.
