@@ -56,6 +56,19 @@ about_content: | # this will include new lines to allow paragraphs
   Planning and Scheduling, Communication and Collaboration, Task Management, Documentation and Reporting, Resource Coordination, Problem Solving, Quality Assurance, Support and Training
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Wisho
+        sub_title: Project Coordinator
+        caption: May 2023 - Present
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          At Wisho, my primary responsibility is to manage a team of seven developers for building products for customers. I utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -105,19 +118,6 @@ content:
         quote: >
           Currently working on this e-commerce app for the UAE, managing project timelines, resource allocation, and ensuring seamless communication among team members and stakeholders.
 
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Wisho
-        sub_title: Project Coordinator
-        caption: May 2023 - Present
-        # link: Link to company (optional)
-        # quote: >
-        #   Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          At Wisho, I lead a talented team of seven, utilizing Scrum methodologies to enhance collaboration and speed up development processes. My responsibilities span from meticulous project planning and resource management to rigorous quality assurance testing, ensuring our products are robust and reliable.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -126,7 +126,7 @@ content:
         caption: 2018 - 2022
         sub_title: Bachelor of Engineering (Computer Technology)
         description: |
-          - Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a commendable GPA of 83.5%.
+          - Completed Bachelor of Engineering in Computer Technology from Rashtrasant Tukdoji Maharaj Nagpur University with a GPA of 83.5%.
           - Developed a Campus Recruitment System, facilitating interactive job vacancy management for students and placement officers.
           - Designed an Android-based Waste Food Management System, aiming to collect surplus food from hotels, restaurants, and individuals to distribute to those in need.
           - Authored a review on existing food management systems, proposing solutions to tackle food waste in India. Engaged in various extracurricular activities, including Event Management, co-organizing HORIZON-19, and active membership in the Rotaract Club of Priyadarshini College of Engineering.
