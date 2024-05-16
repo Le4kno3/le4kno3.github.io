@@ -50,8 +50,8 @@ about_profile_image: images/profile-w.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I'm Harshika Tirpude, an accomplished Project Coordinator with a solid background in computer technology. With a Bachelor's degree in Engineering and hands-on experience at a dynamic startup, I excel in streamlining project workflows and ensuring timely delivery of high-quality products.
 
-  I am most skilled in: <mark>Project Management</mark> and <mark>API Testing</mark>
-  Proficient in project management tools like ClickUp, communication platforms such as Discord and Zoho, and documentation tools including Google Workspace and Microsoft Office. I also have experience in wireframing with Figma and creating flowcharts with draw.io.
+  I am most skilled in: <mark>Project Management</mark> and API Testing
+  Proficient in project management tools like <mark>ClickUp</mark>, communication platforms such as Discord and Zoho, and documentation tools including Google Workspace and Microsoft Office. I also have experience in wireframing with Figma and creating flowcharts with draw.io.
 
   Planning and Scheduling, Communication and Collaboration, Task Management, Documentation and Reporting, Resource Coordination, Problem Solving, Quality Assurance, Support and Training
 
@@ -108,7 +108,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Wisho
         sub_title: Project Coordinator
         caption: May 2023 - Present
